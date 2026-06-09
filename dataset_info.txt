@@ -1,1 +1,5 @@
 "Dataset projek ini disimpan di Google Drive. Sila muat turun fail zip melalui pautan ini: https://drive.google.com/file/d/1NWD37A15igT8jcGjs5a5LAXCVoJsJrHv/view?usp=sharing 
+
+link untuk ke google collab 
+
+"https://colab.research.google.com/github/ilyas0408/Plant-Subspecies-Classification-CNN/blob/main/NamaFailKamu.ipynb"
